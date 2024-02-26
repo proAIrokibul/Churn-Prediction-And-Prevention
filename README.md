@@ -2,7 +2,7 @@
 ## Overview
 This repository contains Python code for predictive churn analysis in a telecom industry setting. The purpose of this project is to develop a predictive model to identify potential churn customers and analyze factors contributing to customer attrition. The analysis includes exploratory data visualization, statistical summaries, and the implementation of a machine learning model using the RandomForestClassifier.
 
-##Key Features
+## Key Features
 
 - Data Exploration: Utilizes pandas, numpy, seaborn, and matplotlib for exploratory data analysis, including descriptive statistics and visualizations.
 - Categorical Analysis: Investigates the distribution of categorical variables, pie charts showcasing category proportions, and radar charts comparing features across different categories.
