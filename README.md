@@ -1,4 +1,4 @@
-### Enhancing Customer Retention with Predictive Churn Analysis
+# Enhancing Customer Retention with Predictive Churn Analysis
 
 ## Overview
 This repository presents a strategic approach to predictive churn analysis tailored for the telecom industry. The project focuses on developing a sophisticated predictive model to proactively identify potential churn customers and analyze the underlying factors driving customer attrition. By leveraging advanced data analytics and machine learning techniques, this initiative aims to empower telecom companies to anticipate and mitigate customer churn effectively, thereby enhancing customer retention rates and fostering long-term business sustainability.
